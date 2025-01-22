@@ -1,6 +1,4 @@
-# Tim Shand
-
-__Hello! I'm Tim :wave:__
+# Hello! I'm Tim :wave:
 
 ## Who am I?
 
@@ -11,10 +9,10 @@ __Hello! I'm Tim :wave:__
 
 ## Involved With
 
-- Cloud Platforms (Azure)
-- Infrastructure as Code (IaC)
-- Homelab Enthusiast (Proxmox and Kubernetes)
-- Learning Python (Django and Flask apps, misc utility scripts)
+:cloud: Cloud Platforms (Azure)  
+:keyboard: Infrastructure as Code (IaC)  
+:computer: Homelab Enthusiast (Proxmox and Kubernetes)  
+:snake: Learning Python (Django and Flask apps, misc utility scripts)  
 
 ## Projects
 
