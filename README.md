@@ -19,6 +19,6 @@
 ### Homelab
 
 My personal production homelab running under my desk.  
-Running Proxmox VE for virtualization and Kuberenetes for container orchestration.
+Running Proxmox VE for virtualization and Kuberenetes for container orchestration.  
 A key part of my continous learning journey, and a playground for testing.  
 Currently a work in progress, with ambitions to expand horizontally.  
