@@ -7,12 +7,16 @@
 - Commited to continuous improvement. There is always more to learn.  
 - Fond of micro tech (Raspberry Pi, Mini-PCs etc).
 
-## Involved With
+## Involved In
 
 :cloud: Cloud Platforms (Azure)  
-:keyboard: Infrastructure as Code (IaC)  
+:keyboard: Infrastructure as Code (Terraform, Bicep)  
 :computer: Home Lab Enthusiast (Proxmox and Kubernetes)  
-:snake: Learning Python (Django and Flask apps, misc utility scripts)  
+
+## Working On
+
+:snake: Upskilling in Python (Django and Flask apps, misc utility scripts)  
+:robot: Developing DevOps skills and practices (CI/CD, automation)
 
 ## Projects
 
