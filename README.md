@@ -7,20 +7,21 @@
 - Commited to continuous improvement. There is always more to learn.  
 - Fond of micro tech (Raspberry Pi, Mini-PCs etc).
 
-## Involved In
+## Involved With
 
-:cloud: Cloud Platforms (Azure)  
-:keyboard: Infrastructure as Code (Terraform, Bicep)  
+:cloud: Cloud and Automation Platforms (Azure, GitOps)  
+:keyboard: Infrastructure as Code (Terraform, Ansible, Bicep)  
 :computer: Home Lab Enthusiast (Proxmox and Kubernetes)  
 
 ## Working On
 
-:snake: Upskilling in Python (Django and Flask apps, misc utility scripts)  
 :robot: Developing DevOps skills and practices (CI/CD, automation)
+:wrench: Rebuilding my homelab, using GitOps practices and ensuring quality documentation.  
+:snake: Upskilling in Python (Django and Flask apps, misc utility scripts)  
 
 ## Projects
 
-### Homelab
+### Home Lab
 
 My personal home lab utlizing some HP EliteDesk mini-pcs from under my desk.  
 Running Proxmox VE for virtualization, and Kuberenetes for container orchestration.  
