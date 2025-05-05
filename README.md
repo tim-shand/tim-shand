@@ -1,8 +1,8 @@
 # Hello! I'm Tim :wave:
 
-## Who am I?
+## About Me
 
-- Systems Engineer with a passion for development and building systems.  
+- IT Systems Engineer with a passion for development and building systems.  
 - Over a decade of experience under my belt in support and engineering roles.  
 - Commited to continuous improvement. There is always more to learn.  
 - Fond of micro tech (Raspberry Pi, Mini-PCs etc).
@@ -13,9 +13,9 @@
 :keyboard: Infrastructure as Code (Terraform, Ansible, Bicep)  
 :computer: Home Lab Enthusiast (Proxmox and Kubernetes)  
 
-## Working On
+## Currently Working On
 
-:robot: Developing DevOps skills and practices (CI/CD, automation)
+:robot: Developing DevOps skills and practices (CI/CD, automation)  
 :wrench: Rebuilding my homelab, using GitOps practices and ensuring quality documentation.  
 :snake: Upskilling in Python (Django and Flask apps, misc utility scripts)  
 
