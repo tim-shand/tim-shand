@@ -11,7 +11,7 @@
 
 :cloud: Cloud and Automation Platforms (Azure, GitOps)  
 :keyboard: Infrastructure as Code (Terraform, Ansible, Bicep)  
-:computer: Home Lab Enthusiast (Proxmox and Kubernetes)  
+:computer: Home Lab Enthusiast (Proxmox, Docker, Kubernetes)  
 
 ## Currently Working On
 
