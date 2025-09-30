@@ -18,9 +18,17 @@
 :wrench: Rebuilding my home lab, implementing GitOps practices, incorporating cloud resources  
 :snake: Upskilling in Python, Django and Flask, misc utility scripts  
 
-### Home Lab
+### Projects
+
+**[Home Lab: On-Prem](https://github.com/tim-shand/homelab-onprem)**
 
 My personal home lab utlizing some HP EliteDesk 800 and Lenovo P330 mini-pcs.  
-Running a hybrid setup with Proxmox VE for on-prem virtualization, incorporating Azure for cloud services.
+Running Proxmox VE for on-prem virtualization. 
 A key part of my continous learning journey, and a playground for testing new tech.  
 It's a work in progress, with ambitions to expand as my skill set develops further.  
+
+**[Home Lab: Azure](https://github.com/tim-shand/homelab-azure)**
+
+Personal Azure tenant, managed via Terraform and GitHub Actions.  
+Deployed using a Powershell script I developed to automate a green-field tenant deployment.  
+Running a very simple platform landing zone and basic web app services.  
