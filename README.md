@@ -18,7 +18,7 @@
 :wrench: Rebuilding my home lab, incorporating cloud resources  
 :snake: Upskilling in Python, Django and Flask, misc utility scripts  
 
-### Projects
+## Projects
 
 **[Home Lab: On-Prem + Azure](https://github.com/tim-shand/homelab)**
 
