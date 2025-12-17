@@ -2,22 +2,22 @@
 
 ## About Me
 
-- Enjoys designing, building and automating systems.  
+- I enjoy designing, building and automating systems.  
 - Over a decade of experience under my belt in support and engineering roles.  
 - Fond of micro tech (Raspberry Pi, Mini-PCs etc).  
 
 ## Interested In
 
-:gear: Automation: Cloud, DevOps, GitOps, IaC  
-:keyboard: Code: Bash, Powershell, Python  
-:computer: Home Lab Enthusiast: Proxmox, Docker  
+:gear: **Automation:** Cloud, DevOps, GitOps, IaC.  
+:keyboard: **Scripting:** Bash, Powershell, Python.  
+:computer: **Home Lab Enthusiast:** Proxmox, Docker.  
 
 ## Currently Working On
 
-:robot: Improving IaC and GitOps practices  
-:cloud: Setting up an Azure platform landing zone  
-:wrench: Rebuilding my home lab on-prem
-:snake: Upskilling in Python, Django and Flask, misc utility scripts  
+:robot: Improving IaC and GitOps practices.  
+:cloud: Setting up an Azure platform landing zone.  
+:wrench: Rebuilding my home lab on-prem.  
+:snake: Upskilling in Python, Django and Flask, misc utility scripts.  
 
 ## Projects
 
