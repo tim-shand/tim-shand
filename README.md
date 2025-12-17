@@ -8,19 +8,26 @@
 
 ## Interested In
 
-:cloud: Cloud and Automation: Azure, DevOps, GitOps, IaC  
-:keyboard: Bash, Powershell, Python  
+:gear: Automation: Cloud, DevOps, GitOps, IaC  
+:keyboard: Code: Bash, Powershell, Python  
 :computer: Home Lab Enthusiast: Proxmox, Docker  
 
 ## Currently Working On
 
-:robot: Learning IaC and GitOps practices  
-:wrench: Rebuilding my home lab, incorporating cloud resources  
+:robot: Improving IaC and GitOps practices  
+:cloud: Setting up an Azure platform landing zone  
+:wrench: Rebuilding my home lab on-prem
 :snake: Upskilling in Python, Django and Flask, misc utility scripts  
 
 ## Projects
 
-**[Home Lab: On-Prem + Azure](https://github.com/tim-shand/homelab)**
+**[Azure Platform LZ](https://github.com/tim-shand/azure)**
+
+- My personal Azure tenant, designed to replicate enterprise methodologies (small scale). 
+- Platform landing zone for shared services, governance, connectivity and vending. 
+- Contains both production and sandbox cloud-based workloads. 
+
+**[Home Lab (On-Prem)](https://github.com/tim-shand/homelab)**
 
 - My personal home lab utlizing some HP EliteDesk 800 and Lenovo P330 mini-pcs.  
 - Managed using Terraform and GitHub Actions workflows.  
