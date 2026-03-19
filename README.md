@@ -21,13 +21,13 @@
 
 ## Projects
 
-**[Azure Platform LZ](https://github.com/tim-shand/azure)**
+**[Azure Platform LZ](https://github.com/tim-shand/azure-platform-lz)**
 
-- My personal Azure tenant, designed to replicate enterprise methodologies (small scale). 
-- Platform landing zone for shared services, governance, connectivity and vending. 
-- Contains both production and sandbox cloud-based workloads. 
+- Custom Azure platform landing zone (PLZ), providing an environment based on enterprise-scale architecture and CAF guidelines.
+- Designed to be light-weight and cost efficient, utilizing free or low-cost options where possible.
+- Deployed and managed using Terraform for Infrastructure as Code (IaC).
 
-**[Home Lab (On-Prem)](https://github.com/tim-shand/homelab)**
+**[Home Lab](https://github.com/tim-shand/homelab)**
 
 - My personal home lab utlizing some HP EliteDesk 800 and Lenovo P330 mini-pcs.  
 - Managed using Terraform and GitHub Actions workflows.  
