@@ -2,34 +2,37 @@
 
 ## About Me
 
-- I enjoy designing, building and automating systems.  
-- Over a decade of experience under my belt in support and engineering roles.  
-- Fond of micro tech (Raspberry Pi, Mini-PCs etc).  
+- I enjoy designing, building and automating systems.
+- Over a decade of experience under my belt in support and engineering roles.
+- Fond of repurposed tech (Raspberry Pi, Mini-PCs etc).
+- Home lab enthusiast interested in Cloud, DevOps, GitOps, IaC, scripting, Proxmox, self-hosting.
 
-## Interested In
+## :books: Currently Learning
 
-:gear: **Automation:** Cloud, DevOps, GitOps, IaC.  
-:keyboard: **Scripting:** Bash, Powershell, Python.  
-:computer: **Home Lab Enthusiast:** Proxmox, Docker.  
+- Developing IaC and GitOps skills with Terraform, Ansible and automation pipelines. 
+- Cloud architecture, network design and service integration.
+- Linux systems, management and administration.
 
-## Currently Working On
+## :building_construction: Currently Building
 
-:robot: Improving IaC and GitOps practices.  
-:cloud: Setting up an Azure platform landing zone.  
-:wrench: Rebuilding my home lab on-prem.  
-:snake: Upskilling in Python, Django and Flask, misc utility scripts.  
+- Refining my Azure platform landing zone.  
+- Continuously building and tweaking my on-prem home lab.
 
-## Projects
+## :wrench_and_hammer: Projects
 
-**[Azure Platform LZ](https://github.com/tim-shand/azure-platform-lz)**
+**[Azure Platform LZ](https://github.com/tim-shand/azure-platformlz-custom)**
 
-- Custom Azure platform landing zone (PLZ), providing an environment based on enterprise-scale architecture and CAF guidelines.
-- Designed to be light-weight and cost efficient, utilizing free or low-cost options where possible.
-- Deployed and managed using Terraform for Infrastructure as Code (IaC).
+- Custom Azure platform landing zone, inspired by enterprise-scale architecture and CAF guidelines.
+- Designed to be light-weight and cost efficient, utilising free or low-cost SKUs where applicable.
+- Deployed in stacks (Management, Governance, Connectivity) with independent state files maintaining workload isolation.
+- Bootstrapped via PowerShell script to deploy initial resources into Azure and GitHub repository.
+- IaC automation using Terraform and GitHub Actions workflows.
+- Dedicated service principal with custom RBAC role, utilising Federated Credentials (OIDC), enabling secure authentication during workflow execution.
 
-**[Home Lab](https://github.com/tim-shand/homelab)**
+**[Private Cloud Hypervisor Cluster (Home Lab)](https://github.com/tim-shand/homelab)**
 
-- My personal home lab utlizing some HP EliteDesk 800 and Lenovo P330 mini-pcs.  
-- Managed using Terraform and GitHub Actions workflows.  
-- Running Proxmox VE for on-prem virtualization.  
-- A key part of my continuous learning journey, and a playground for testing new tech.  
+- Multi node hypervisor cluster running Proxmox VE automated with Terraform and Ansible.
+- Replication and high-availability configured for production workloads.
+- Software-defined networking with VNet and VLANs configured in code.
+- OPNsense providing network firewall, VLANs, DNS and routing functionality.
+- Personal home lab environment for self-hosting and training.
