@@ -1,6 +1,6 @@
-# Hello! I'm Tim :wave:
+# Hello! I'm Tim
 
-## About Me
+## :wave: About Me
 
 - I enjoy designing, building and automating systems.
 - Over a decade of experience under my belt in support and engineering roles.
@@ -18,7 +18,7 @@
 - Refining my Azure platform landing zone.  
 - Continuously building and tweaking my on-prem home lab.
 
-## :wrench_and_hammer: Projects
+## :hammer_and_wrench: Projects
 
 **[Azure Platform LZ](https://github.com/tim-shand/azure-platformlz-custom)**
 
